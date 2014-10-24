@@ -1,0 +1,151 @@
+    1  /Users/tom/Downloads/jquery.blueberry/README ; exit;
+    2  /Users/tom/Downloads/jquery.blueberry/README ; exit;
+    3  git--2.0.1
+    4  git --2.0.1
+    5  git --2.0.1
+    6  git --2.0.1
+    7  git
+    8  git --version
+    9  git config --global user.name Tom Dickson
+   10  git config --global user.email thosdickson@gmail.com
+   11  $apachectl
+   12  apachectl restartl
+   13  apachectl restart
+   14  sudo apachectl restart
+   15  http://localhost/
+   16* sudo chmod o+w /Library/WebServer/Documents
+   17  sudo chmod o+w /Library/WebServer/Documents
+   18  sudo chmod o+w /Library/WebServer/Documents
+   19  /php
+   20  sudo vim /etc/apache2/httpd.conf
+   21  apachectl restart
+   22  sudo apachectl restart
+   23  git
+   24  sudo vim /etc/apache2/httpd.conf
+   25  git
+   26  git --version
+   27  rails
+   28  dir
+   29  open .
+   30  GITfiles
+   31  init
+   32  cd GITfiles
+   33  git init
+   34  touch a
+   35  touch b
+   36  touch c
+   37  cd blog
+   38  git status
+   39  git add .
+   40  git commit -m "initial commit"
+   41  git config --global
+   42  git config --global user.email
+   43  git config --global user.name
+   44  git config --global user.name "Tom Dickson"
+   45  git config --global --replace-all user.name "Tom Dickson"
+   46  git config --global --replace-all user.name "Tom Dickson"
+   47  git config --global user.name
+   48  git config --global user.email
+   49  git status
+   50  git add z
+   51  git add .
+   52  git status
+   53  git add <z>
+   54  git add z
+   55  git status
+   56  touch z
+   57  git status
+   58  git add .
+   59  git status
+   60  git status
+   61  git log
+   62  git status
+   63  git commit -m "New commit z"
+   64  git staus
+   65  git status
+   66  git log
+   67  git show 3ac0ad5101de788ab0dcd78261a4ae1e09c3fd8f
+   68  git show 3ac0ad5101de788ab0dcd78261a4ae1e09c3fd8f
+   69  git log --z
+   70  git log -- z
+   71  git status
+   72  git add z
+   73  git status
+   74  git commit --z
+   75  git log
+   76  git status
+   77  git git add .
+   78  git commit -m
+   79  ls-la
+   80  ls -la
+   81  git commit
+   82  git remote -V
+   83  git remote -v
+   84  git remote
+   85  git remote add origin https://github.com/tomdickson/frontEnd.git
+   86  git push -u origin master
+   87  git log
+   88  git status
+   89  git commit -m "commit Z change"
+   90  get status
+   91  git status
+   92  git clone https://github.com/tomdickson/blog3.git 
+   93  cd blog3
+   94  ls
+   95  edit z
+   96  git edit z
+   97  vi
+   98  vi z
+   99  git status
+  100  git add .
+  101  git commit -m "this is commit to z file"
+  102  git status
+  103  git push origin master
+  104  git status
+  105  ssh -i file.pem ec2-user@54.183.225.182
+  106  ssh -i ~/\ AcadX/\ \*PEM/tommyd.pem ec2-user@54.183.225.182
+  107  chmod 400 /Users/tom/zP/tommyd.pem
+  108  ssh -i /Users/tom/zP/tommyd.pem ec2-user@54.183.225.182
+  109  git status
+  110  get status
+  111  git status
+  112  git log
+  113  git help -a
+  114  git help -g
+  115  git remote -v
+  116  ls
+  117  pwd
+  118  cd ..
+  119  pwd
+  120  git status
+  121  ls -la
+  122  git remote -v
+  123  pwd
+  124  ]cd ..
+  125  pwd
+  126  cd ..
+  127  pwd
+  128  git status
+  129  cd GITfiles/
+  130  ls
+  131  rm -Rf *
+  132  ls -la
+  133  rm -Rf .git/
+  134  git status
+  135  mkdir SVG
+  136  cd SVG
+  137  pwd
+  138  curl -O https://raw.githubusercontent.com/tomdickson/frontEnd/master/SVG
+  139  ls
+  140  cat SVG
+  141  mv SVG SVG.html
+  142  ls 
+  143  git init
+  144  git status
+  145  git add .
+  146  git status
+  147  git commit -m "Initial commit"
+  148  git remote add origin https://github.com/tomdickson/SVGexer.git
+  149  git push -u origin master
+  150  history
+  151  history > myHistory.txt
